@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mifta Setya Pratama</h1>
-<h3 align="center">I am a student majoring in software engineering at SMKN 1 Jenangan. I was born on August 17, 2006. I am enthusiastic about Mobile App Development, and I am also always enthusiastic about learning new technology</h3>
+<h3 align="center">I am a student majoring in software engineering at SMKN 1 Jenangan. I was born on August 17, 2006. I am enthusiastic about Mobile App Development, and I am also enthusiastic about learning new technology</h3>
 
 - 🔭 I’m currently preparing to learn everything that can improve my **skill**
 
