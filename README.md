@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently preparing to learn everything that can improve my **skill**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **kotlin, express js**
 
