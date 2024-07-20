@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently preparing to learn everything that can improve my **skill**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel and Flutter**
 
-- 💬 Ask me about **kotlin, express js**
+- 💬 Ask me about **Kotlin**
 
 - 📫 How to reach me **miftasetyapratama08@gmail.com**
 
