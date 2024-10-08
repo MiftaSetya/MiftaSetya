@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mifta Setya Pratama</h1>
-<h3 align="center">I am a student majoring in informatics engineering. I am 18 years old and live in Ponorogo, East Java. I am passionate about Mobile App Development, and I am also enthusiastic about learning new technology</h3>
+<h3 align="center">I am a student majoring in informatics engineering. I am 18 years old and live in Ponorogo, East Java. I am passionate about Mobile App Development and also enthusiastic about learning new technology</h3>
 
 - 🔭 I’m currently preparing to learn everything that can improve my **skill**
 
