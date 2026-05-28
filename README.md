@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mifta Setya Pratama</h1>
 <h3 align="center">I am a student majoring in Informatics Engineering at Electronics Engineering Polytechnic Institute of Surabaya. I am 19 years old and live in Surabaya, East Java. I am passionate about Mobile App Development and also enthusiastic about learning new technology</h3>
 
-- 🔭 I’m currently preparing to learn everything that can improve my **skill**
+- 🌱 I’m currently learning **Golang**
 
-- 🌱 I’m currently learning **NextJs and Flutter**
-
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **miftasetyapratama08@gmail.com**
 
